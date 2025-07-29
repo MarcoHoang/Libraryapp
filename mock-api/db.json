@@ -1,0 +1,169 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Dế Mèn Phiêu Lưu Ký",
+      "author": "Tô Hoài",
+      "category": "Văn học Việt Nam",
+      "publisher": "Nhà xuất bản Kim Đồng",
+      "publishedYear": 1941,
+      "description": "Cuộc phiêu lưu của chú Dế Mèn qua thế giới loài vật, mang nhiều bài học sâu sắc về tình bạn và cuộc sống.",
+      "status": "available",
+      "coverUrl": "https://m.media-amazon.com/images/I/81xT7O1-NnL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Số Đỏ",
+      "author": "Vũ Trọng Phụng",
+      "category": "Văn học Việt Nam",
+      "publisher": "Nhà xuất bản Văn học",
+      "publishedYear": 1936,
+      "description": "Một tác phẩm trào phúng kinh điển, đả kích sâu cay xã hội thực dân nửa phong kiến Việt Nam những năm 1930-1940.",
+      "status": "available",
+      "coverUrl": "https://nhasachphuongnam.com/images/thumbnails/500/500/detailed/222/so-do_b88b-2o_e46g-9z.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Cho Tôi Một Vé Đi Tuổi Thơ",
+      "author": "Nguyễn Nhật Ánh",
+      "category": "Văn học Việt Nam",
+      "publisher": "Nhà xuất bản Trẻ",
+      "publishedYear": 2008,
+      "description": "Hồi ức ngọt ngào về tuổi thơ với những trò chơi, suy nghĩ ngây ngô và tình bạn trong sáng của một nhóm bạn nhỏ.",
+      "status": "available",
+      "coverUrl": "https://m.media-amazon.com/images/I/51r2213bptL.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Tắt Đèn",
+      "author": "Ngô Tất Tố",
+      "category": "Văn học Việt Nam",
+      "publisher": "Nhà xuất bản Mai Lĩnh",
+      "publishedYear": 1937,
+      "description": "Bức tranh chân thực về cuộc sống cùng khổ của người nông dân Việt Nam dưới ách sưu cao thuế nặng thời Pháp thuộc.",
+      "status": "borrowed",
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/vi/9/91/B%C3%ACa_s%C3%A1ch_T%E1%BA%AFt_%C4%91%C3%A8n.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Truyện Kiều",
+      "author": "Nguyễn Du",
+      "category": "Văn học Việt Nam",
+      "publisher": "Nhà xuất bản Văn học",
+      "publishedYear": 1820,
+      "description": "Tuyệt tác thi ca của văn học Việt Nam, kể về cuộc đời 15 năm lưu lạc đầy truân chuyên của Thúy Kiều.",
+      "status": "available",
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/B%C3%ACa_s%C3%A1ch_Truy%E1%BB%87n_Ki%E1%BB%81u_c%E1%BB%A7a_NXB_Ph%E1%BB%95_th%C3%B4ng_1973.jpeg"
+    },
+    {
+      "id": "6",
+      "title": "One Piece",
+      "author": "Eiichiro Oda",
+      "category": "Manga",
+      "publisher": "Shueisha",
+      "publishedYear": 1997,
+      "description": "Hành trình của Monkey D. Luffy và băng hải tặc Mũ Rơm đi tìm kho báu huyền thoại One Piece để trở thành Vua Hải Tặc.",
+      "status": "available",
+      "coverUrl": "https://m.media-amazon.com/images/I/518eY2r0lFL.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Naruto",
+      "author": "Masashi Kishimoto",
+      "category": "Manga",
+      "publisher": "Shueisha",
+      "publishedYear": 1999,
+      "description": "Câu chuyện về Naruto Uzumaki, một ninja trẻ mồ côi, tìm cách được mọi người công nhận và ước mơ trở thành Hokage, người lãnh đạo làng.",
+      "status": "available",
+      "coverUrl": "https://m.media-amazon.com/images/I/912xRMMra4L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Attack on Titan (Shingeki no Kyojin)",
+      "author": "Hajime Isayama",
+      "category": "Manga",
+      "publisher": "Kodansha",
+      "publishedYear": 2009,
+      "description": "Nhân loại sống sau những bức tường khổng lồ để trốn tránh các Titan ăn thịt người. Cuộc chiến sinh tồn bắt đầu khi một Titan khổng lồ phá vỡ bức tường.",
+      "status": "borrowed",
+      "coverUrl": "https://m.media-amazon.com/images/I/81dH7-pkjiL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "author": "Koyoharu Gotouge",
+      "category": "Manga",
+      "publisher": "Shueisha",
+      "publishedYear": 2016,
+      "description": "Sau khi gia đình bị quỷ tàn sát và em gái biến thành quỷ, Tanjiro Kamado bắt đầu hành trình trở thành thợ săn quỷ để cứu em gái và trả thù.",
+      "status": "available",
+      "coverUrl": "https://m.media-amazon.com/images/I/815-hIflI7L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Dragon Ball",
+      "author": "Akira Toriyama",
+      "category": "Manga",
+      "publisher": "Shueisha",
+      "publishedYear": 1984,
+      "description": "Cuộc phiêu lưu của Son Goku từ thời thơ ấu đến khi trưởng thành, qua các khóa huấn luyện võ thuật và hành trình tìm kiếm bảy viên ngọc rồng.",
+      "status": "available",
+      "coverUrl": "https://m.media-amazon.com/images/I/81p2+I-3N0L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "category": "Fantasy",
+      "publisher": "Bloomsbury",
+      "publishedYear": 1997,
+      "description": "Một cậu bé mồ côi phát hiện ra mình là một phù thủy vào sinh nhật thứ 11 và được mời theo học tại Trường Phù thủy và Pháp sư Hogwarts.",
+      "status": "available",
+      "coverUrl": "https://m.media-amazon.com/images/I/81iqZ2HHD-L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "12",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "category": "Philosophy",
+      "publisher": "HarperCollins",
+      "publishedYear": 1988,
+      "description": "Hành trình của một chàng chăn cừu tên Santiago đi tìm kho báu, và trên đường đi, anh đã tìm thấy chính mình.",
+      "status": "available",
+      "coverUrl": "https://m.media-amazon.com/images/I/51bVNTqHFlL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "category": "Science Fiction",
+      "publisher": "Chilton Books",
+      "publishedYear": 1965,
+      "description": "Câu chuyện về Paul Atreides và gia đình khi họ tiếp quản hành tinh sa mạc Arrakis, nguồn duy nhất của loại gia vị quý giá nhất vũ trụ.",
+      "status": "available",
+      "coverUrl": "https://m.media-amazon.com/images/I/81ym3QUd3KL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "category": "Non-fiction",
+      "publisher": "Harvill Secker",
+      "publishedYear": 2011,
+      "description": "Một cái nhìn tổng quan về lịch sử loài người, từ thời kỳ đồ đá cho đến những cuộc cách mạng chính trị và công nghệ.",
+      "status": "borrowed",
+      "coverUrl": "https://m.media-amazon.com/images/I/713jIoMO3UL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "15",
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "category": "Fantasy",
+      "publisher": "Allen & Unwin",
+      "publishedYear": 1954,
+      "description": "Cuộc hành trình của một người Hobbit tên Frodo Baggins để phá hủy Chiếc nhẫn quyền lực và cứu Trung Địa khỏi Chúa tể hắc ám Sauron.",
+      "status": "available",
+      "coverUrl": "https://m.media-amazon.com/images/I/71jLBXtWJWL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ]
+}

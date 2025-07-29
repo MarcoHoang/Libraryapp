@@ -1,0 +1,57 @@
+.container {
+  display: flex;
+  gap: 20px;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  align-items: flex-start;
+  background-color: #f9f9f9;
+}
+
+.cover {
+  width: 120px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.info {
+  flex: 1;
+}
+
+.title {
+  margin: 0 0 10px 0;
+  font-size: 20px;
+  color: #333;
+}
+
+.description {
+  margin-top: 10px;
+  font-style: italic;
+  color: #666;
+}
+
+.actions {
+  margin-top: 15px;
+  display: flex;
+  gap: 10px;
+}
+
+.buttonEdit {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.buttonDelete {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+}

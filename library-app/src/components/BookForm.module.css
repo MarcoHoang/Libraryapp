@@ -1,0 +1,55 @@
+.form {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 25px 30px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: #fefefe;
+}
+
+.heading {
+  text-align: center;
+  font-size: 22px;
+  margin-bottom: 25px;
+  color: #333;
+}
+
+label {
+  display: block;
+  margin-top: 15px;
+  font-weight: 500;
+}
+
+input,
+select,
+textarea {
+  width: 100%;
+  padding: 8px 10px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+textarea {
+  resize: vertical;
+}
+
+.error {
+  color: red;
+  font-size: 13px;
+  margin-top: 3px;
+  display: block;
+}
+
+.submitBtn {
+  margin-top: 20px;
+  background-color: #007bff;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  width: 100%;
+  font-size: 16px;
+}
